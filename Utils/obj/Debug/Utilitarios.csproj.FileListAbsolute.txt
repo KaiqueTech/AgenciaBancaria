@@ -1,0 +1,6 @@
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\obj\Debug\Utilitarios.csproj.AssemblyReference.cache
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\bin\Debug\Utils.exe
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\bin\Debug\Utils.pdb
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\obj\Debug\Utils.exe
+D:\Kaique\Projetos\Agencia-Bancaria\AgenciaBancaria\Utils\obj\Debug\Utils.pdb

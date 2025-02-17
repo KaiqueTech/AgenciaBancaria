@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenciaBancaria", "AgenciaBancaria\AgenciaBancaria.csproj", "{DEC5969F-9608-4B53-B797-4163CC1F430C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilitarios", "Utils\Utilitarios.csproj", "{973028F8-1A8F-4043-B1C3-80CF66DCA599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC5969F-9608-4B53-B797-4163CC1F430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC5969F-9608-4B53-B797-4163CC1F430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC5969F-9608-4B53-B797-4163CC1F430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC5969F-9608-4B53-B797-4163CC1F430C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973028F8-1A8F-4043-B1C3-80CF66DCA599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973028F8-1A8F-4043-B1C3-80CF66DCA599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973028F8-1A8F-4043-B1C3-80CF66DCA599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973028F8-1A8F-4043-B1C3-80CF66DCA599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
